@@ -1,2 +1,3 @@
 # socket-programming
-here I code socket in different langs
+ code socket in different langs 
+ and also learn network
